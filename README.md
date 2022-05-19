@@ -4,7 +4,7 @@ A webpaget that allows the user to type in plans per business hour. The site sav
 
 # SCREENSHOT:
 
-![Alt text](./Develop/Images/screenshot.png "Optional Title")
+![Alt text](./Images/screenshot.png "Optional Title")
 
 # LINK TO APPLICATION: 
 
